@@ -1,4 +1,4 @@
-# TelecomCustomerChurnAnalysis
+# Telecom Customer Churn Analysis
 A brief analysis on Telecom Customer Churn Analysis using some Machine Learning techniques
 
 Description: This project aims to predict customer churn of telecom data using Machine Learning algorithms and techniques.
